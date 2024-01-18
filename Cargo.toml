@@ -9,8 +9,8 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 
 [[bin]]
-name = "internalAndZmq"
-path = "src/internalAndZmq.rs"
+name = "pipeAndZmq"
+path = "src/pipeAndZmq.rs"
 
 [[bin]]
 name = "zmq"

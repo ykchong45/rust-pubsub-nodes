@@ -8,5 +8,5 @@ This Rust framework is designed for real-time data stream processing with ZeroMQ
 ```
 cargo run --bin zmq
 
-cargo run --bin internalAndZmq
+cargo run --bin pipeAndZmq
 ```
